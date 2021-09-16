@@ -1,0 +1,7 @@
+1.Remove Default Dashboard -just delete from dashboard .
+Table Entry:
+2.UPDATE `vtiger_app2tab` SET `appname`='INDIVIDUALS' WHERE `tabid`=4 
+
+
+
+

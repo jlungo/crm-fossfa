@@ -1,0 +1,137 @@
+[CRON],"1603786861.6649",http://localhost/zcrm/,Instance,"2020-10-27 08:21:01","",[STARTS]
+[CRON],"1603786861.6649",http://localhost/zcrm/,Workflow,"2020-10-27 08:21:01","",[STARTS]
+
+[CRON],"1603786861.6649",http://localhost/zcrm/,Workflow,"2020-10-27 08:21:01","2020-10-27 08:21:08",[ENDS]
+[CRON],"1603786861.6649",http://localhost/zcrm/,RecurringInvoice,"2020-10-27 08:21:08","",[STARTS]
+
+[CRON],"1603786861.6649",http://localhost/zcrm/,RecurringInvoice,"2020-10-27 08:21:08","2020-10-27 08:21:08",[ENDS]
+[CRON],"1603786861.6649",http://localhost/zcrm/,SendReminder,"2020-10-27 08:21:08","",[STARTS]
+
+[CRON],"1603786861.6649",http://localhost/zcrm/,SendReminder,"2020-10-27 08:21:08","2020-10-27 08:21:08",[ENDS]
+[CRON],"1603786861.6649",http://localhost/zcrm/,MailScanner,"2020-10-27 08:21:08","",[STARTS]
+No mailbox configured for scanning!
+[CRON],"1603786861.6649",http://localhost/zcrm/,MailScanner,"2020-10-27 08:21:08","2020-10-27 08:21:08",[ENDS]
+[CRON],"1603786861.6649",http://localhost/zcrm/,ScheduleReports,"2020-10-27 08:21:09","",[STARTS]
+
+[CRON],"1603786861.6649",http://localhost/zcrm/,ScheduleReports,"2020-10-27 08:21:09","2020-10-27 08:21:09",[ENDS]
+[CRON],"1603786861.6649",http://localhost/zcrm/,Instance,"2020-10-27 08:21:01","2020-10-27 08:21:09",[ENDS]
+[CRON],"1603786921.3522",http://localhost/zcrm/,Instance,"2020-10-27 08:22:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603786921.3522",http://localhost/zcrm/,Instance,"2020-10-27 08:22:01","2020-10-27 08:22:01",[ENDS]
+[CRON],"1603786981.5048",http://localhost/zcrm/,Instance,"2020-10-27 08:23:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603786981.5048",http://localhost/zcrm/,Instance,"2020-10-27 08:23:01","2020-10-27 08:23:01",[ENDS]
+[CRON],"1603787041.6624",http://localhost/zcrm/,Instance,"2020-10-27 08:24:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787041.6624",http://localhost/zcrm/,Instance,"2020-10-27 08:24:01","2020-10-27 08:24:01",[ENDS]
+[CRON],"1603787101.8094",http://localhost/zcrm/,Instance,"2020-10-27 08:25:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787101.8094",http://localhost/zcrm/,Instance,"2020-10-27 08:25:01","2020-10-27 08:25:01",[ENDS]
+[CRON],"1603787161.9575",http://localhost/zcrm/,Instance,"2020-10-27 08:26:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787161.9575",http://localhost/zcrm/,Instance,"2020-10-27 08:26:01","2020-10-27 08:26:01",[ENDS]
+[CRON],"1603787222.1117",http://localhost/zcrm/,Instance,"2020-10-27 08:27:02","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787222.1117",http://localhost/zcrm/,Instance,"2020-10-27 08:27:02","2020-10-27 08:27:02",[ENDS]
+[CRON],"1603787281.3462",http://localhost/zcrm/,Instance,"2020-10-27 08:28:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787281.3462",http://localhost/zcrm/,Instance,"2020-10-27 08:28:01","2020-10-27 08:28:01",[ENDS]
+[CRON],"1603787341.5061",http://localhost/zcrm/,Instance,"2020-10-27 08:29:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787341.5061",http://localhost/zcrm/,Instance,"2020-10-27 08:29:01","2020-10-27 08:29:01",[ENDS]
+[CRON],"1603787402.0155",http://localhost/zcrm/,Instance,"2020-10-27 08:30:02","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787402.0155",http://localhost/zcrm/,Instance,"2020-10-27 08:30:02","2020-10-27 08:30:02",[ENDS]
+[CRON],"1603787461.1658",http://localhost/zcrm/,Instance,"2020-10-27 08:31:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787461.1658",http://localhost/zcrm/,Instance,"2020-10-27 08:31:01","2020-10-27 08:31:01",[ENDS]
+[CRON],"1603787521.3781",http://localhost/zcrm/,Instance,"2020-10-27 08:32:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787521.3781",http://localhost/zcrm/,Instance,"2020-10-27 08:32:01","2020-10-27 08:32:01",[ENDS]
+[CRON],"1603787581.5322",http://localhost/zcrm/,Instance,"2020-10-27 08:33:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787581.5322",http://localhost/zcrm/,Instance,"2020-10-27 08:33:01","2020-10-27 08:33:01",[ENDS]
+[CRON],"1603787641.6785",http://localhost/zcrm/,Instance,"2020-10-27 08:34:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787641.6785",http://localhost/zcrm/,Instance,"2020-10-27 08:34:01","2020-10-27 08:34:01",[ENDS]
+[CRON],"1603787701.8294",http://localhost/zcrm/,Instance,"2020-10-27 08:35:01","",[STARTS]
+[CRON],"1603787701.8294",http://localhost/zcrm/,Workflow,"2020-10-27 08:35:01","",[STARTS]
+
+[CRON],"1603787701.8294",http://localhost/zcrm/,Workflow,"2020-10-27 08:35:01","2020-10-27 08:35:01",[ENDS]
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787701.8294",http://localhost/zcrm/,Instance,"2020-10-27 08:35:01","2020-10-27 08:35:01",[ENDS]
+[CRON],"1603787762.1047",http://localhost/zcrm/,Instance,"2020-10-27 08:36:02","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[CRON],"1603787762.1047",http://localhost/zcrm/,SendReminder,"2020-10-27 08:36:02","",[STARTS]
+
+[CRON],"1603787762.1047",http://localhost/zcrm/,SendReminder,"2020-10-27 08:36:02","2020-10-27 08:36:02",[ENDS]
+[CRON],"1603787762.1047",http://localhost/zcrm/,MailScanner,"2020-10-27 08:36:02","",[STARTS]
+No mailbox configured for scanning!
+[CRON],"1603787762.1047",http://localhost/zcrm/,MailScanner,"2020-10-27 08:36:02","2020-10-27 08:36:02",[ENDS]
+[CRON],"1603787762.1047",http://localhost/zcrm/,ScheduleReports,"2020-10-27 08:36:02","",[STARTS]
+
+[CRON],"1603787762.1047",http://localhost/zcrm/,ScheduleReports,"2020-10-27 08:36:02","2020-10-27 08:36:02",[ENDS]
+[CRON],"1603787762.1047",http://localhost/zcrm/,Instance,"2020-10-27 08:36:02","2020-10-27 08:36:02",[ENDS]
+[CRON],"1603787821.5499",http://localhost/zcrm/,Instance,"2020-10-27 08:37:01","",[STARTS]
+[INFO] Workflow - not ready to run as the time to run again is not completed
+[INFO] RecurringInvoice - not ready to run as the time to run again is not completed
+[INFO] SendReminder - not ready to run as the time to run again is not completed
+[INFO] MailScanner - not ready to run as the time to run again is not completed
+[INFO] ScheduleReports - not ready to run as the time to run again is not completed
+[CRON],"1603787821.5499",http://localhost/zcrm/,Instance,"2020-10-27 08:37:01","2020-10-27 08:37:01",[ENDS]
